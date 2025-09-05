@@ -1,0 +1,37 @@
+group 'com.tfliteflutter.tflite_flutter_plugin'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.4.2' // Ensure this version matches your Flutter requirements
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    namespace 'com.tfliteflutter.tflite_flutter_plugin' // Add the namespace here
+
+    compileSdkVersion 34 // Use the latest version compatible with your project
+
+    defaultConfig {
+        minSdkVersion 21 // Ensure it matches your project's requirements
+        targetSdkVersion 34 // Ensure it matches your project's requirements
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+}

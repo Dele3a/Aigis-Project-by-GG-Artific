@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏗️ Aigis – AI for Structural Pathology Detection
 
 **Aigis** is an **AI-powered mobile application** built with Flutter that helps civil engineers, inspectors, and researchers detect and analyze **structural pathologies** in buildings and infrastructure.  
@@ -111,3 +112,21 @@ This project is currently under **development**. Licensing will be added in late
 ---
 
 🚀 *Part of the **GG Artific** ecosystem — building the future of AI-powered engineering and infrastructure.*
+=======
+# aigis
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 2c2edcf (Initial commit: Aigis project setup)
