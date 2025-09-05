@@ -53,21 +53,6 @@ This project sits at the intersection of multiple fields:
 
 ---
 
-## 🧑‍💻 The Maker
-This project is created by **Ghanem**, founder of **GG Artific**, with a mission to merge **engineering expertise, artificial intelligence, and entrepreneurship** to build impactful tech solutions.  
-
----
-
-## 🌐 About GG Artific
-**GG Artific** is an innovation-driven ecosystem aiming to build a **tech empire from zero capital** by creating AI-first products that solve real-world challenges.  
-- 🏗️ **Engineering & Infrastructure** → Aigis  
-- 🏠 **Real Estate & PropTech** → SwipeStay, Verbatim  
-- 📈 **Crypto & Finance** → Trading frameworks and educational products  
-
-Aigis fits into the **engineering branch** of GG Artific, showcasing how **AI can empower civil engineering** and pave the way for smarter, safer infrastructure worldwide.  
-
----
-
 ## 📂 Tech Stack
 - **Frontend:** Flutter (Dart)  
 - **AI Models:** TensorFlow Lite / PyTorch Mobile  
@@ -102,6 +87,21 @@ How to contribute:
 4. Submit a Pull Request  
 
 Let’s **build Aigis together** and shape the future of structural engineering.  
+
+---
+
+## 🧑‍💻 The Maker
+This project is created by **Ghanem**, founder of **GG Artific**, with a mission to merge **engineering expertise, artificial intelligence, and entrepreneurship** to build impactful tech solutions.  
+
+---
+
+## 🌐 About GG Artific
+**GG Artific** is an innovation-driven ecosystem aiming to build a **tech empire from zero capital** by creating AI-first products that solve real-world challenges.  
+- 🏗️ **Engineering & Infrastructure** → Aigis  
+- 🏠 **Real Estate & PropTech** → SwipeStay, Verbatim  
+- 📈 **Crypto & Finance** → Trading frameworks and educational products  
+
+Aigis fits into the **engineering branch** of GG Artific, showcasing how **AI can empower civil engineering** and pave the way for smarter, safer infrastructure worldwide.  
 
 ---
 
